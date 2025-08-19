@@ -9,3 +9,6 @@ Added a Player Controller script
 
 Added a Camera Controller script
 - third person camera script with player follow, view and camera collisions handled.
+
+Added a Sample State Machine design pattern code
+- design pattern that lets an object switch between different states of behavior, where only one state is active at a time. It comes handy when we switch animations and its easily scalable.
